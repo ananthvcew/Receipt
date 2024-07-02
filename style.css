@@ -112,7 +112,7 @@
     font-style: normal;
   }
   .primary{
-	  background-color:#285FA0;
-	  color:#FFFF;
+	  background-color:#285FA0 !important;
+	  color:#FFFF !important;
   }
   
